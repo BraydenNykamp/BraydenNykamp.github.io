@@ -31,8 +31,8 @@
 body{
 	font-family: 'Futura',sans-serif;
 	line-height: 1.75;
-	color:var(--grey-900);
-	background-color:#ea9423;
+	color:var(--grey-400);
+	background-color:var(--grey-900);
 	margin:0 auto;
 	padding: 1rem;
 }
