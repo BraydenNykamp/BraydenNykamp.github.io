@@ -29,7 +29,7 @@
   --accent-blue: #3A76F0;
 }
 body{
-	font-family: 'Futura',sans-serif;
+	font-family: 'Trebuchet MS',sans-serif;
 	line-height: 1.75;
 	color:var(--grey-400);
 	background-color:var(--grey-900);
@@ -58,7 +58,9 @@ nav a{
 }
 
 nav a:hover{
-	font-weight:border-box;
+	font-weight:750;
+	text-decoration: border-box;
+	color: var(--accent-teal);
 }
 
 main{
