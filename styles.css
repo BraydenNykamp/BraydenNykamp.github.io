@@ -52,14 +52,14 @@ nav{
 }
 
 nav a{
-	color:#0366c5;
+	color:var(accent-blue);
 	margin:0 0.9rem;
 	font-weight:bold;
 }
 
 nav a:hover{
 	font-weight:750;
-	text-decoration: border-box;
+	text-decoration: overline;
 	color: var(--accent-teal);
 }
 
@@ -68,7 +68,7 @@ main{
 }
 
 main h2{
-	font-size:4rem;
+	font-size:2rem;
 	margin-bottom:0.9rem;
 }
 
